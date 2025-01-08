@@ -12,7 +12,7 @@ public class Day_5_Loops {
         System.out.println("hello"+2+2);
 
         // for loop
-        for(int i=0;i<10;i++){
+        for(int i=1;i<=10;i++){
             System.out.println("Manu");
         }
 

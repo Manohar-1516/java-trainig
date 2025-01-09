@@ -16,7 +16,7 @@ public class Day_6_Problems {
         }
 
         int [] arr=new int[5];
-        System.out.println(arr);
+        System.out.println(arr[4]);
     }
     
 }
